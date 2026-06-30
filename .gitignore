@@ -1,0 +1,36 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment
+.env
+
+# Google OAuth
+client_secret.json
+token.json
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Coverage
+.coverage
+htmlcov/
+
+# Cache
+.pytest_cache/
+
+# Build
+dist/
+build/
