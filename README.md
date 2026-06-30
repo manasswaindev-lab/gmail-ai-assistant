@@ -12,6 +12,10 @@
 
 ![Gmail API](https://img.shields.io/badge/Gmail-API-red)
 
+<p align="center">
+  <img src="docs/images/architecture.png" width="900">
+</p>
+
 # Gmail AI Assistant - Code Walkthrough
 
 ## Source Files
