@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Product Catalogue",
+    "description": "Latest Product Catalogue",
+    "keywords": [
+      "catalogue",
+      "catalog",
+      "products",
+      "product catalogue",
+      "product list"
+    ],
+    "file_name": "catalogue.pdf",
+    "url": "https://company.com/catalogue.pdf",
+    "mime_type": "application/pdf"
+  },
+  {
+    "name": "Pricing Details",
+    "description": "Latest Price List",
+    "keywords": [
+      "pricing",
+      "price",
+      "price list",
+      "quotation",
+      "quote",
+      "commercial"
+    ],
+    "file_name": "pricing.pdf",
+    "url": "https://company.com/pricing.pdf",
+    "mime_type": "application/pdf"
+  },
+  {
+    "name": "Company Profile",
+    "description": "Company Introduction",
+    "keywords": ["company profile", "profile", "about company"],
+    "file_name": "company_profile.pdf",
+    "url": "https://company.com/company_profile.pdf",
+    "mime_type": "application/pdf"
+  }
+]
